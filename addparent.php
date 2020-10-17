@@ -4,6 +4,8 @@ session_start();
 
 if($_SESSION['username']==true)
 {
+	//that statement can be omitted
+	#that's added in hack (the above statement) asdf
 ?>
 
 <!DOCTYPE html>
